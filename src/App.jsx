@@ -2,7 +2,7 @@
 import { Route, Routes } from 'react-router-dom'
 import Actions from './components/Actions.jsx'
 import Home from './Home'
-import Hooks from './components/hooks.jsx'
+import Hooks from './components/Hooks.jsx'
 import { Counter } from './features/counter/Counter'
 import Pagination from './components/Pagination.jsx'
 
